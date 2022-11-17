@@ -1,1 +1,1 @@
-# alura-armazenando-na-web
+Manipulando dados com localstorage no navegador
